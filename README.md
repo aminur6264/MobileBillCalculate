@@ -1,4 +1,4 @@
-# MobileBillCalculate
+# Mobile Bill Calculate
 Problem 1:
 Calculate mobile bill between two date times.
 Peak Hour: 9.00.00 am to 10.59.59 pm
@@ -14,10 +14,16 @@ Start time: 2019-08-31 08:59:13 am
 End time: 2019-08-31 09:00:39 am
 
 Breakdown (Optional to show): 
+
 2019-09-31 08:59:13 + 20 second (2019-09-31 08:59:33) = 20 paisa
+
 2019-09-31 08:59:34 + 20 second (2019-09-31 08:59:54) = 20 paisa
+
 2019-09-31 08:59:55 + 20 second (2019-09-31 09:00:15) = 30 paisa
+
 2019-09-31 09:00:16 + 20 second (2019-09-31 09:00:36) = 30 paisa
+
 2019-09-31 09:00:37 + 3 second (2019-09-31 09:00:39) = 30 paisa
+
 
 Sample output: 1.3 taka
